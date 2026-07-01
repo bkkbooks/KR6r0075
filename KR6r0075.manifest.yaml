@@ -1,0 +1,670 @@
+canonical_identifier: bkk:krp/KR6r0075/v1
+canonical_location: https://kanripo.org/bkk/KR6r0075/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 淨土往生傳
+  identifiers:
+    alt_id:
+    - T51n2071
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T51/T51n2071.xml
+    old_id: T51n2071
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 原
+  label: 原
+  source_xml_id: wit1
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0075_000.yaml, hash: 'sha256:743e3a53e1bc0f736c9eb8f02f44a8b79ee5d02490536e38d06be43b9fb62aa8'}
+  - {seq: 1, filename: KR6r0075_001.yaml, hash: 'sha256:a3210dce56b5a115f51b072d5d85a6afbd51fdd35fc7587b19a4482161c0eb14'}
+  - {seq: 2, filename: KR6r0075_002.yaml, hash: 'sha256:9d4f405eab4e600ccaa28bf6eede7738c126afcac829d08516a37446bfe17b81'}
+  - {seq: 3, filename: KR6r0075_003.yaml, hash: 'sha256:97695aa0144a267b6a2fc98d044d1cc677a2a026bf867ae300a027399dfe3701'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0075_000.markers.yaml, hash: 'sha256:b3debc07b2367b6fea1d9ab07f68d06e951f3e80f723aec79827dafa3ec89d82'}
+  - {seq: 1, role: markers, filename: assets/KR6r0075_001.markers.yaml, hash: 'sha256:d2311936e4b84da0e0102cb9aed644256f8cf3273dc7a5288d08376ed1edc3f8'}
+  - {seq: 2, role: markers, filename: assets/KR6r0075_002.markers.yaml, hash: 'sha256:101cf651ad739a9a8b210cf9e4926b4dcb0ea438f84f1d04e2b9f8086b7a6874'}
+  - {seq: 3, role: markers, filename: assets/KR6r0075_003.markers.yaml, hash: 'sha256:67b87b8961b05f75b51ab834cca5d8630aa74ae8054c136800f8df80e4f2e25d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6r0075_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 敘淨土往生傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0075_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7655
+  label: 淨土往生傳卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0075_T_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 正傳十九人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0075_T_001-mulu-2
+    span:
+    - body
+    - 175
+    - 175
+  label: 釋僧顯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0075_T_001-mulu-3
+    span:
+    - body
+    - 427
+    - 427
+  label: 釋慧永
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0075_T_001-mulu-4
+    span:
+    - body
+    - 747
+    - 747
+  label: 釋慧遠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0075_T_001-mulu-5
+    span:
+    - body
+    - 2249
+    - 2249
+  label: 釋慧虔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0075_T_001-mulu-6
+    span:
+    - body
+    - 2531
+    - 2531
+  label: 釋僧濟
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0075_T_001-mulu-7
+    span:
+    - body
+    - 2786
+    - 2786
+  label: 釋慧恭
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0075_T_001-mulu-8
+    span:
+    - body
+    - 3099
+    - 3099
+  label: 劉程之
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0075_T_001-mulu-9
+    span:
+    - body
+    - 3660
+    - 3660
+  label: 釋僧叡
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0075_T_001-mulu-10
+    span:
+    - body
+    - 4073
+    - 4073
+  label: 釋曇鑒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0075_T_001-mulu-11
+    span:
+    - body
+    - 4500
+    - 4500
+  label: 釋曇弘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0075_T_001-mulu-12
+    span:
+    - body
+    - 4752
+    - 4752
+  label: 尼法盛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0075_T_001-mulu-13
+    span:
+    - body
+    - 5020
+    - 5020
+  label: 尼道瑗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0075_T_001-mulu-14
+    span:
+    - body
+    - 5244
+    - 5244
+  label: 釋慧進
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0075_T_001-mulu-15
+    span:
+    - body
+    - 5469
+    - 5469
+  label: 釋慧光
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0075_T_001-mulu-16
+    span:
+    - body
+    - 5735
+    - 5735
+  label: 釋法琳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0075_T_001-mulu-17
+    span:
+    - body
+    - 6039
+    - 6039
+  label: 釋僧柔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0075_T_001-mulu-18
+    span:
+    - body
+    - 6321
+    - 6321
+  label: 釋曇鸞
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0075_T_001-mulu-19
+    span:
+    - body
+    - 6889
+    - 6889
+  label: 釋道珍
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0075_T_001-mulu-20
+    span:
+    - body
+    - 7231
+    - 7231
+  label: 釋慧命
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0075_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 8930
+  label: 淨土往生傳卷中
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0075_T_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 正傳二十人
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0075_T_002-mulu-2
+    span:
+    - body
+    - 145
+    - 145
+  label: 釋慧思
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0075_T_002-mulu-3
+    span:
+    - body
+    - 1138
+    - 1138
+  label: 釋智顗
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0075_T_002-mulu-4
+    span:
+    - body
+    - 2530
+    - 2530
+  label: 釋智舜
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0075_T_002-mulu-5
+    span:
+    - body
+    - 3188
+    - 3188
+  label: 釋智通
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0075_T_002-mulu-6
+    span:
+    - body
+    - 3553
+    - 3553
+  label: 釋真慧
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0075_T_002-mulu-7
+    span:
+    - body
+    - 3975
+    - 3975
+  label: 釋法智
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0075_T_002-mulu-8
+    span:
+    - body
+    - 4337
+    - 4337
+  label: 釋善胄
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0075_T_002-mulu-9
+    span:
+    - body
+    - 4633
+    - 4633
+  label: 釋法祥
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0075_T_002-mulu-10
+    span:
+    - body
+    - 4873
+    - 4873
+  label: 釋明贍
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0075_T_002-mulu-11
+    span:
+    - body
+    - 5331
+    - 5331
+  label: 釋道綽
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0075_T_002-mulu-12
+    span:
+    - body
+    - 5685
+    - 5685
+  label: 釋灌頂
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0075_T_002-mulu-13
+    span:
+    - body
+    - 6027
+    - 6027
+  label: 釋道昂
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0075_T_002-mulu-14
+    span:
+    - body
+    - 6299
+    - 6299
+  label: 釋智琰
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0075_T_002-mulu-15
+    span:
+    - body
+    - 6662
+    - 6662
+  label: 釋神素
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0075_T_002-mulu-16
+    span:
+    - body
+    - 6895
+    - 6895
+  label: 釋善導
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0075_T_002-mulu-17
+    span:
+    - body
+    - 7197
+    - 7197
+  label: 釋功逈
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0075_T_002-mulu-18
+    span:
+    - body
+    - 7520
+    - 7520
+  label: 釋惟岸
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0075_T_002-mulu-19
+    span:
+    - body
+    - 7828
+    - 7828
+  label: 釋法持
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0075_T_002-mulu-20
+    span:
+    - body
+    - 8068
+    - 8068
+  label: 釋慧日
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0075_T_002-mulu-21
+    span:
+    - body
+    - 8484
+    - 8484
+  label: 釋雄俊
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0075_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 8286
+  label: 淨土往生傳卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0075_T_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 本傳十七人
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0075_T_003-mulu-2
+    span:
+    - body
+    - 124
+    - 124
+  label: 釋僧衒
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0075_T_003-mulu-3
+    span:
+    - body
+    - 653
+    - 653
+  label: 釋辯才
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0075_T_003-mulu-4
+    span:
+    - body
+    - 1045
+    - 1045
+  label: 釋法照
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0075_T_003-mulu-5
+    span:
+    - body
+    - 2254
+    - 2254
+  label: 釋自覺
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0075_T_003-mulu-6
+    span:
+    - body
+    - 2814
+    - 2814
+  label: 釋懷玉
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0075_T_003-mulu-7
+    span:
+    - body
+    - 3128
+    - 3128
+  label: 釋齊翰
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0075_T_003-mulu-8
+    span:
+    - body
+    - 3442
+    - 3442
+  label: 釋神皓
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0075_T_003-mulu-9
+    span:
+    - body
+    - 3779
+    - 3779
+  label: 釋少康
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0075_T_003-mulu-10
+    span:
+    - body
+    - 4442
+    - 4442
+  label: 釋知玄
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0075_T_003-mulu-11
+    span:
+    - body
+    - 5402
+    - 5402
+  label: 釋僧藏
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0075_T_003-mulu-12
+    span:
+    - body
+    - 5609
+    - 5609
+  label: 釋大行
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0075_T_003-mulu-13
+    span:
+    - body
+    - 5903
+    - 5903
+  label: 釋惟恭
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0075_T_003-mulu-14
+    span:
+    - body
+    - 6278
+    - 6278
+  label: 釋鴻莒
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0075_T_003-mulu-15
+    span:
+    - body
+    - 6670
+    - 6670
+  label: 釋志通
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0075_T_003-mulu-16
+    span:
+    - body
+    - 7136
+    - 7136
+  label: 釋紹巖
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0075_T_003-mulu-17
+    span:
+    - body
+    - 7455
+    - 7455
+  label: 釋守真
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0075_T_003-mulu-18
+    span:
+    - body
+    - 7869
+    - 7869
+  label: 釋晤恩
+  type: mulu
+  level: 1
+hash: sha256:a663f9b5b25148e1cf39c3ce118f534ba238b7f95361bc63c3e19b23925a3c77
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
