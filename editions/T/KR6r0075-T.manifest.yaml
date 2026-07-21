@@ -19,12 +19,12 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6r0075_000-T.yaml, hash: 'sha256:6c7a849c53760d1420c52cc2ffeac6b9b0106638ef412a8fdee551ba86e93ec2'}
+  - {seq: 0, filename: KR6r0075_000-T.yaml, hash: 'sha256:ea45264ab6918b40f1e5e983da02609e9a110eb774b243d9b645e757fdc80729'}
   - {seq: 1, filename: KR6r0075_001-T.yaml, hash: 'sha256:345ba75f10ad5348f63bc44152e6d5318d2e480cf1bd0463fe66d5b0678b819e'}
   - {seq: 2, filename: KR6r0075_002-T.yaml, hash: 'sha256:50a2329b94d18838825328a774e8f79921c0ca0b3fd68bc6208d0b09f71347c1'}
   - {seq: 3, filename: KR6r0075_003-T.yaml, hash: 'sha256:44cf82dd3783a8d4af38924071cb472a75ce6c1ec81c8bcbda281745c7bdd7d3'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0075_000-T.markers.yaml, hash: 'sha256:6ace5ef6ac02dcea76e841a9bcd3cf2fe2205e4c7b0af10981f0d65e7df533b1'}
+  - {seq: 0, role: markers, filename: assets/KR6r0075_000-T.markers.yaml, hash: 'sha256:4ec0548f810d7081568b3baa982efbb4f4ecce1e0f0c14d7468f02aba06309dd'}
   - {seq: 1, role: markers, filename: assets/KR6r0075_001-T.markers.yaml, hash: 'sha256:5bb2af197ef9342542aca79b95c37914361f9c2b886c0c184cc0fab86c981c67'}
   - {seq: 2, role: markers, filename: assets/KR6r0075_002-T.markers.yaml, hash: 'sha256:abdb78ed462df3b4452a89e59272d5bb67250b1d1dbf95a3421c0e134b3c105f'}
   - {seq: 3, role: markers, filename: assets/KR6r0075_003-T.markers.yaml, hash: 'sha256:ffaa66ced45ebbd40eada396b4c8ded22ab1ae828c9ff19588d0d79a1df9fd98'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0075_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 敘淨土往生傳
@@ -659,4 +659,4 @@ table_of_contents:
   label: 釋晤恩
   type: mulu
   level: 1
-hash: sha256:963a8529af62eb321e7e81496ebda3012b39dc95c2645fa3006663ae2030ace9
+hash: sha256:1c5de49250a726ed541aacfe8ef837744679cec95244fe95a4ec9d9f69f185c5
